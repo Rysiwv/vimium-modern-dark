@@ -4,7 +4,7 @@ Theme for Vimium extension.
 
 ## Installation
 
-Copy the content of the `vimium-modern-dark.css` file and paste it into Vimium's Advanced Options under `CSS for Vimium UI`.
+Copy the content of the `vimium-modern-dark.css` file and paste it into Vimium's Advanced Options -> `CSS for Vimium UI`.
 
 ## Screenshots
 
